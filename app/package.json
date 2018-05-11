@@ -1,6 +1,6 @@
 {
 	"name": "winds",
-	"version": "2.0.86",
+	"version": "2.0.89",
 	"description": "https://getstream.io/winds",
 	"private": true,
 	"author": "Nick Parsons <nick@getstream.io>",
@@ -119,10 +119,7 @@
 				"bucket": "winds-2.0-releases",
 				"path": "releases"
 			},
-			"category": "public.app-category.productivity",
-			"entitlements": "assets/entitlements.mas.plist",
-			"entitlementsInherit": "assets/entitlements.mas.inherit.plist",
-			"provisioningProfile": "assets/embedded.provisionprofile"
+			"category": "public.app-category.productivity"
 		},
 		"mas": {
 			"icon": "assets/icon.icns",
